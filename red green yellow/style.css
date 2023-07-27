@@ -1,0 +1,30 @@
+
+.mainDiv{
+    display:flex;
+}
+.red{
+    background-color : red;
+    width : 100px;
+    height: 200px;
+    margin: 10px 10px 10px 10px;
+}
+
+.green{
+    background-color : green;
+    width : 100px;
+    height: 200px;
+    margin: 10px 10px 10px 10px;
+}
+
+.yellow{
+    background-color : yellow;
+    width : 100px;
+    height: 200px;
+    margin: 10px 10px 10px 10px;
+}
+h5{
+    color:white;
+    text-align: center;
+    
+}
+
